@@ -11,5 +11,5 @@ Image Linking in HTML
 - Menu: List food items, and each item should be linked to an image related to that food.- 
 - Use appropriate HTML tags for headings, paragraphs, lists, and images.
 - Link each image to a relevant external website (use placeholder URLs if needed).
-- Ensure the page is well-structured and easy to navigat
+- Ensure the page is well-structured and easy to navigate.
 
