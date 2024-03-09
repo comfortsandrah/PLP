@@ -1,0 +1,39 @@
+h1{
+    font-size: 80%;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-right: 50px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+form input, form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;  
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #008CBA;
+    color: white;
+    cursor: pointer;
+}
